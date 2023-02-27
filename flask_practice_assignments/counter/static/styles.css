@@ -1,0 +1,14 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    align-self: center;
+    text-align: center;
+}
+
+#plusTwo {
+    background-color: firebrick;
+    color: beige;
+}
+#zero{
+    background-color: cadetblue;
+}
