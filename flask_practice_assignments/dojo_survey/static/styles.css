@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    margin-top: 20%;
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.holder{
+    padding: 10% 5%;
+    align-content: center;
+    background-color: slategrey;
+    width: 50%;
+    height: 50%;
+    border: 2px black;
+    color: goldenrod;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    color: whitesmoke;
+    margin: 5%;
+}
+input, select {
+    margin: 3%;
+    
+}
+
+#commentBox{
+    height: 30%;
+}
+
+
+#submitt {
+    align-self: center;
+    width: 15%;
+}
